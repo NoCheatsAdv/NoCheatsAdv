@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/190211708596387841)](https://discord.com/users/190211708596387841)
+[![Discord Presence](https://presly.baby/api/190211708596387841?theme=discord&displayName=1)](https://discord.com/users/190211708596387841)
 
 <!--
 **NoCheatsAdv/NoCheatsAdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
